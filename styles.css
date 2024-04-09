@@ -85,6 +85,14 @@ header, footer{
     background-color: var(--mint);
 }
 
+
+
+h1{
+    font-weight: bold;
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
 /* Navigation Styles */
 nav{
     width: 50%;

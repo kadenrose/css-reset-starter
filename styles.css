@@ -217,6 +217,11 @@ fieldset{
     border: 2px groove var(--red);
 }
 
+
+legend{
+    padding: 0 2px;
+}
+
 /* Code for Custom Radios - Compare to Your zyBook, I added additional code to make these match my form styles */
 input[type=radio] + label {
     cursor: pointer;
@@ -284,6 +289,11 @@ textarea{
 #my-submit:hover{
     background-color: var(--coral);
     color: var(--dk-gray);
+}
+
+
+figure{
+    margin: 1em 40px;
 }
 
 /* Code Styles */
